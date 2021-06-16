@@ -25,17 +25,20 @@
 
 ***
 
-<!--
-**Otniel113/Otniel113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>About Me: </b>
+<br>
+- 👨 My full name is Otniel Abiezer
+- 🏫 I’m currently studying on Telkom University, Indonesia 🇮🇩
+- 💻 I’m currently learning Algorithm Strategy
+- 🤔 I'm interesting to Data Science (though still not learnt it)
+- 💬 Ask me about anything <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
+- 📫 How to reach me: otnielabiezer@student.telkomuniversity.ac.id
+- 🎮 I have some hobbies, includes Playing Mobile Legends, Watching Anime, Reading Visual Novel, Playing Music 🎸🎹 , Playing with Cats 🐱
+- 🍽️ My favorite foods are Nasi Goreng (Indonesian Fried Rice) and Martabak (Manis and Telur). I prefer salty food to sweet food.
+- 📘 I'm also interesting in many fields, includes Another Languges (human languages, not only programming languages LOL 😆), Geography and Maps, History, Music, and many more
 
-Here are some ideas to get you started:
+***
+Stackoverflow stats (if down, then it will be The End of every Programmers 😱😱😱)
+<img src="https://img.shields.io/website-up-down-green-red/https/stackoverflow.com.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Something you might like](https://youtu.be/dQw4w9WgXcQ) 
