@@ -20,15 +20,11 @@
     <b>My Stats:</b>
     <br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Otniel113&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otniel113&theme=blue-green" />
 </p>
 
 ***
 
-<p align="center">
-    <b>Favorite Languages:</b>
-    <br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otniel113&theme=blue-green" />
-</p>
 <!--
 **Otniel113/Otniel113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
