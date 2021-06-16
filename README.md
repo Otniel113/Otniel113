@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    ## <b>Contact Me:</b>
+    <b>Contact Me:</b>
     <br>
     <a href="https://www.facebook.com/otniel.saragih"><img src="https://img.shields.io/badge/Facebook-1877F2?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
     <a href="https://instagram.com/otnielabiezer"><img src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
@@ -17,7 +17,7 @@
 ***
 
 <p align="center">
-    ## <b>My Stats:</b>
+    <b>My Stats:</b>
     <br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Otniel113&show_icons=true&theme=blue-green" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otniel113&theme=blue-green" />
@@ -25,7 +25,7 @@
 
 ***
 
-## <b>About Me: </b>
+<b>About Me: </b>
 <br>
 - 👨 My full name is Otniel Abiezer
 - 🏫 I’m currently studying on Telkom University, Indonesia 🇮🇩
