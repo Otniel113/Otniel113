@@ -5,18 +5,24 @@
 </p>
 
 <p align="center">
-Contact Me:
-<br>
-<a href="https://www.facebook.com/otniel.saragih"><img src="https://img.shields.io/badge/Facebook-1877F2?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://instagram.com/otnielabiezer"><img src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/otniel-abiezer-161366213/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://www.youtube.com/c/OtnielAbiezer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" /></a>&nbsp;
-<a href="https://https://twitter.com/otnielabiezer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white" alt="Twitter" /></a>&nbsp;
+    Contact Me:
+    <br>
+    <a href="https://www.facebook.com/otniel.saragih"><img src="https://img.shields.io/badge/Facebook-1877F2?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+    <a href="https://instagram.com/otnielabiezer"><img src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+    <a href="https://www.linkedin.com/in/otniel-abiezer-161366213/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+    <a href="https://www.youtube.com/c/OtnielAbiezer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" /></a>&nbsp;
+    <a href="https://https://twitter.com/otnielabiezer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white" alt="Twitter" /></a>&nbsp;
 </p>
 
 
 <p align="center">
+    My Stats
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Otniel113&show_icons=true" />
+</p>
+
+<p align="center">
+    Favorite Languages
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otniel113&theme=blue-green" />
 </p>
 <!--
 **Otniel113/Otniel113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
