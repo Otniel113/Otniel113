@@ -14,9 +14,9 @@ Contact Me:
 <a href="https://https://twitter.com/otnielabiezer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white" alt="Twitter" /></a>&nbsp;
 </p>
 
-<p align="center">
+
 ![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=Otniel113&show_icons=true)
-</p>
+
 <!--
 **Otniel113/Otniel113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
