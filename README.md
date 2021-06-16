@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    Contact Me:
+    <b>Contact Me:</b>
     <br>
     <a href="https://www.facebook.com/otniel.saragih"><img src="https://img.shields.io/badge/Facebook-1877F2?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
     <a href="https://instagram.com/otnielabiezer"><img src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
@@ -16,13 +16,13 @@
 
 
 <p align="center">
-    My Stats
+    <b>My Stats:</b>
     <br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Otniel113&show_icons=true" />
 </p>
 
 <p align="center">
-    Favorite Languages
+    <b>Favorite Languages:</b>
     <br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otniel113&theme=blue-green" />
 </p>
