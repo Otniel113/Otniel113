@@ -16,11 +16,13 @@
 
 
 <p align="center">
+    <br>
     My Stats
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Otniel113&show_icons=true" />
 </p>
 
 <p align="center">
+    <br>
     Favorite Languages
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otniel113&theme=blue-green" />
 </p>
