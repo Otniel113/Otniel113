@@ -19,7 +19,7 @@
 <p align="center">
     <b>My Stats:</b>
     <br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Otniel113&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Otniel113&show_icons=true&theme=blue-green" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otniel113&theme=blue-green" />
 </p>
 
