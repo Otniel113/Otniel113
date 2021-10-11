@@ -29,8 +29,8 @@
 <br>
 - 👨 My full name is Otniel Abiezer
 - 🏫 I’m currently studying on Telkom University, Indonesia 🇮🇩
-- 💻 I’m currently learning Algorithm Strategy
-- 🤔 I'm interesting to Data Science (though still not learnt it)
+- 💻 I’m currently learning Machine Learning and Data Visualization
+- 🤔 I'm interesting to Data Science
 - 💬 Ask me about anything <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
 - 📫 How to reach me: otnielabiezer@student.telkomuniversity.ac.id
 - 🎮 I have some hobbies, includes Playing Mobile Legends, Watching Anime, Reading Visual Novel, Playing Music 🎸🎹 , Playing with Cats 🐱
