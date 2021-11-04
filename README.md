@@ -1,4 +1,4 @@
-# Welcome to My Profile 👋
+<h1> Welcome to My Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Otniel113" />
@@ -13,6 +13,17 @@
     <a href="https://www.youtube.com/c/OtnielAbiezer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" /></a>&nbsp;
     <a href="https://twitter.com/otnielabiezer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white" alt="Twitter" /></a>&nbsp;
 </p>
+
+***
+
+![Tes](https://drive.google.com/uc?id=1dZAsGV_ALmbgxop8EaUhyXnYQUyiO4ge)
+
+***
+
+<div align="center">
+    <b><h2>"You will not be bored to see my repositories, because I make descriptions (in the readme.md) for most of them."</h2></b>
+</div>
+
 
 ***
 
