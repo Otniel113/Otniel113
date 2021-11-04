@@ -16,7 +16,9 @@
 
 ***
 
-![Tes](https://drive.google.com/uc?id=1dZAsGV_ALmbgxop8EaUhyXnYQUyiO4ge)
+<p align="center">
+    <img align="center" src="https://drive.google.com/uc?id=176RDjnBr8zazoPgoF896YDKXZgSUqLiK" />
+</p>
 
 ***
 
