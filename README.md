@@ -33,7 +33,33 @@
     <b>My Stats:</b>
     <br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Otniel113&show_icons=true&theme=blue-green" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otniel113&theme=blue-green" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Otniel113&theme=blue-green" />
+</p>
+
+***
+
+<p align="center">
+    <b>Languages/Framework:</b>
+    <br>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+    <br><br><b>Library:</b>
+    <br>
+    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
+    <br><br><b>IDE/Editor:</b>
+    <br>
+    <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <br><br><b>Learning:</b>
+    <br>
+    <img src="https://img.shields.io/badge/Progate-380953?style=for-the-badge&logo=progate&logoColor=white" />
+    <img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" />
+    
 </p>
 
 ***
