@@ -69,7 +69,7 @@
 <br>
 - 👨 My full name is Otniel Abiezer
 - 🏫 I’m currently studying on [Telkom University](https://telkomuniversity.ac.id/) , Indonesia 🇮🇩
-- 💻 I’m currently learning Machine Learning and Data Visualization
+- 💻 I’m currently learning Platform-Base Programming (Web and Mobile)
 - 🤔 I'm interesting to Data Science and Natural Language Processing
 - 💬 Ask me about anything <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
 - 📫 How to reach me: otnielabiezer@student.telkomuniversity.ac.id
