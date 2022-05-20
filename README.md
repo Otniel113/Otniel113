@@ -17,6 +17,13 @@
 
 ***
 
+<div align="center">
+    <b><h1>"I'm currently open to work as Data Scientist or Data Analyst Intern."</h1></b>
+</div>
+
+
+***
+
 <p align="center">
     <img align="center" src="https://drive.google.com/uc?id=176RDjnBr8zazoPgoF896YDKXZgSUqLiK" />
 </p>
