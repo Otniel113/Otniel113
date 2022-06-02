@@ -1,4 +1,5 @@
-<h1> Welcome to My Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1> Welcome to My Profile </h1>
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px" height="auto"> -->
 
 <p align="center">
     <!--<img align="center" alt="visitors" src="https://gpvc.arturio.dev/Otniel113" /> ... -->
@@ -101,7 +102,7 @@
     <br><br><b>Learning:</b>
     <br>
     <img src="https://img.shields.io/badge/Progate-380953?style=for-the-badge&logo=progate&logoColor=white" />
-    <img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Alibaba_Cloud_Academy-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" />
     <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" />
     
 </div>
