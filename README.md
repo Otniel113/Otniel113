@@ -18,14 +18,6 @@
 
 ***
 
-<div align="center">
-    <b><h1>"I'm currently open to work as Data Scientist or Data Analyst Intern."</h1></b>
-    <b><h2>On-site or Hybrid in Jakarta, Indonesia or Remote from anywhere</h2></b>
-</div>
-
-
-***
-
 <p align="center">
     <img align="center" src="https://drive.google.com/uc?id=176RDjnBr8zazoPgoF896YDKXZgSUqLiK" />
 </p>
