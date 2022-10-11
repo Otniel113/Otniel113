@@ -104,11 +104,10 @@
 <b>About Me: </b>
 <br>
 - 👨 My full name is Otniel Abiezer
-- 🏫 I’m currently studying on [Telkom University](https://telkomuniversity.ac.id/) , Indonesia 🇮🇩
-- 💻 I’m currently learning Platform-Base Programming (Web and Mobile)
-- 🤔 I'm interesting to Data Science and Natural Language Processing
+- 🏫 I graduated from [Telkom University](https://telkomuniversity.ac.id/) , Indonesia 🇮🇩 and took Informatics major
+- 🤔 I'm interesting to Data Science and Data Analytics
 - 💬 Ask me about anything <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
-- 📫 How to reach me: otnielabiezer@student.telkomuniversity.ac.id
+- 📫 How to reach me: otnielabiezer113@gmail.com or otnielabiezer@student.telkomuniversity.ac.id
 - 🎮 I have some hobbies, includes Playing Mobile Legends, Watching Anime, Reading Visual Novel, Playing Music 🎸🎹 , Playing with Cats 🐱
 - 🍽️ My favorite foods are Nasi Goreng (Indonesian Fried Rice) and Martabak (Manis and Telur). I prefer salty food to sweet food.
 - 📘 I'm also interesting in many fields, includes Another Languges (human languages, not only programming languages LOL 😆), Geography and Maps, History, Music, and many more
