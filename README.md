@@ -64,6 +64,7 @@
     <br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" / >
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" / >
     <br><br><b>Frameworks:</b>
@@ -76,26 +77,23 @@
     <b>Languages:</b>
     <br>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" / >
     <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" / >
     <img src="https://img.shields.io/badge/SQL-DB7533?style=for-the-badge&logo=steamdb&logoColor=white" / >
     <br><br><b>Databases:</b>
     <br>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" / >
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" / >
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" / >
     <br><br>Deployment:<b></b>
     <br>
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" / >
     <img src="https://img.shields.io/badge/Github_Pages-100000?style=for-the-badge&logo=github&logoColor=white" / >
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" / >
+    <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" / >
     <br><br><b>IDE/Editor:</b>
     <br>
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Codeblocks-292995?style=for-the-badge&logo=cplusplus&logoColor=white"/ >
-    <br><br><b>Learning:</b>
-    <br>
-    <img src="https://img.shields.io/badge/Progate-380953?style=for-the-badge&logo=progate&logoColor=white" />
-    <img src="https://img.shields.io/badge/Alibaba_Cloud_Academy-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" />
     
 </div>
 
