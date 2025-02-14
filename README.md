@@ -16,12 +16,12 @@
     <a href="https://twitter.com/otnielabiezer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 </p>
 
-***
+<!-- ***
 
 <p align="center">
     <img align="center" src="https://drive.google.com/uc?id=176RDjnBr8zazoPgoF896YDKXZgSUqLiK" />
 </p>
-
+-->
 ***
 
 <div align="center">
@@ -90,6 +90,9 @@
     <img src="https://img.shields.io/badge/Github_Pages-100000?style=for-the-badge&logo=github&logoColor=white" / >
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" / >
     <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" / >
+    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=whit" / >
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" / >
+    <img src="https://img.shields.io/badge/VPS-11557C?style=for-the-badge" / >
     <br><br><b>IDE/Editor:</b>
     <br>
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
@@ -103,10 +106,10 @@
 <br>
 - 👨 My full name is Otniel Abiezer
 - 🏫 I graduated from [Telkom University](https://telkomuniversity.ac.id/) , Indonesia 🇮🇩 and took Informatics major
-- 🤔 I'm interesting to Data Science and Data Analytics
+- 🤔 I'm interesting to Data Science, Data Analytics, and Web Development
 - 💬 Ask me about anything <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
-- 📫 How to reach me: otnielabiezer113@gmail.com or otnielabiezer@student.telkomuniversity.ac.id
-- 🎮 I have some hobbies, includes Playing Mobile Legends, Watching Anime, Reading Visual Novel, Playing Music 🎸🎹 , Playing with Cats 🐱
+- 📫 How to reach me: otnielabiezer113@gmail.com
+- 🎮 I don't have any specific hobby, but I can include Playing Game, Watching Anime, Reading Visual Novel, Playing Music 🎸🎹 , Playing with Cats 🐱
 - 🍽️ My favorite foods are Nasi Goreng (Indonesian Fried Rice) and Martabak (Manis and Telur). I prefer salty food to sweet food.
 - 📘 I'm also interesting in many fields, includes Another Languges (human languages, not only programming languages LOL 😆), Geography and Maps, History, Music, and many more
 
