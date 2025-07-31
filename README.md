@@ -101,6 +101,16 @@
 </div>
 
 ***
+<div align="center">
+    <b><h3>Support/Tip/Donate Me!</h3></b>
+        👉
+        <a href="https://otnielsupport.netlify.app/">
+            <img src="https://img.shields.io/badge/Support-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+        </a>
+        👈
+</div>
+
+***
 
 <b>About Me: </b>
 <br>
