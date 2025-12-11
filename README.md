@@ -1,8 +1,6 @@
 <h1> Welcome to My Profile </h1>
-<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px" height="auto"> -->
 
 <p align="center">
-    <!--<img align="center" alt="visitors" src="https://gpvc.arturio.dev/Otniel113" /> ... -->
     <img align="center" alt="visitors" src="https://komarev.com/ghpvc/?username=Otniel113&color=brightgreen" />
 </p>
 
@@ -13,7 +11,7 @@
     <a href="https://instagram.com/otnielabiezer"><img src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
     <a href="https://www.linkedin.com/in/otniel-abiezer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
     <a href="https://www.youtube.com/c/OtnielAbiezer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" /></a>&nbsp;
-    <a href="https://twitter.com/otnielabiezer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+    <a href="https://x.com/otnielabiezer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;
 </p>
 
 <!-- ***
@@ -57,7 +55,7 @@
     <img src="https://img.shields.io/badge/Seaborn-7DB0BC?style=for-the-badge" / >
     <img src="https://img.shields.io/badge/Bokeh-2F2F2F?style=for-the-badge" / >
     <img src="https://img.shields.io/badge/NetworkX-FF7F0E?style=for-the-badge" / >
-    <img src="https://img.shields.io/badge/Tweepy-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" / >
+    <img src="https://img.shields.io/badge/Tweepy-000000?style=for-the-badge&logo=twitter&logoColor=white" / >
     <img src="https://img.shields.io/badge/TKinter-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <b><h2>Software Development</h2></b>
     <b>Languages:</b>
@@ -70,9 +68,13 @@
     <br><br><b>Frameworks:</b>
     <br>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" / >
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" / >
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" / >
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" / >
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" / >
+    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" / >
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" / >
+    <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" / >
     <b><h2>Another</h2><b>
     <b>Languages:</b>
     <br>
@@ -85,6 +87,7 @@
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" / >
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" / >
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" / >
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" / >
     <br><br>Deployment:<b></b>
     <br>
     <img src="https://img.shields.io/badge/Github_Pages-100000?style=for-the-badge&logo=github&logoColor=white" / >
@@ -93,6 +96,8 @@
     <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=whit" / >
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" / >
     <img src="https://img.shields.io/badge/VPS-11557C?style=for-the-badge" / >
+    <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" / >
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" / >
     <br><br><b>IDE/Editor:</b>
     <br>
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
@@ -112,16 +117,9 @@
 <br>
 - 👨 My full name is Otniel Abiezer
 - 🏫 I graduated from [Telkom University](https://telkomuniversity.ac.id/) , Indonesia 🇮🇩 and took Informatics major
-- 🤔 I'm interesting to Data Science, Data Analytics, and Web Development
+- 🤔 I'm interesting to Data Science, Data Analytics, and Software Engineering (Web and Mobile)
 - 💬 Ask me about anything <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
 - 📫 How to reach me: otnielabiezer113@gmail.com
 - 🎮 I don't have any specific hobby, but I can include Playing Game, Watching Anime, Reading Visual Novel, Playing Music 🎸🎹 , Playing with Cats 🐱
 - 🍽️ My favorite foods are Nasi Goreng (Indonesian Fried Rice) and Martabak (Manis and Telur). I prefer salty food to sweet food.
 - 📘 I'm also interesting in many fields, includes Another Languges (human languages, not only programming languages LOL 😆), Geography and Maps, History, Music, and many more
-
-***
-Stackoverflow stats (if down, then it will be The End of every Programmers 😱😱😱)
-<br>
-<img src="https://img.shields.io/website-up-down-green-red/https/stackoverflow.com.svg" />
-<br>
-[Something you might like](https://youtu.be/dQw4w9WgXcQ) 
