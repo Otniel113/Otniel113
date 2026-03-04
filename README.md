@@ -7,9 +7,10 @@
 <p align="center">
     <b>Contact Me:</b>
     <br>
+    <a href="https://www.linkedin.com/in/otniel-abiezer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
     <a href="https://www.facebook.com/otniel.saragih"><img src="https://img.shields.io/badge/Facebook-1877F2?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
     <a href="https://instagram.com/otnielabiezer"><img src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-    <a href="https://www.linkedin.com/in/otniel-abiezer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+    <a href="https://www.threads.com/@otnielabiezer"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>&nbsp;
     <a href="https://www.youtube.com/c/OtnielAbiezer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" /></a>&nbsp;
     <a href="https://x.com/otnielabiezer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;
 </p>
@@ -23,7 +24,7 @@
 ***
 
 <div align="center">
-    <b><h2>"You will not be bored to see my repositories, because I make descriptions (in the readme.md) for most of them."</h2></b>
+    <b><h2>"You will not be bored to see my repositories, because I make descriptions (in the README.md) for most of them."</h2></b>
 </div>
 
 
@@ -60,10 +61,12 @@
     <b><h2>Software Development</h2></b>
     <b>Languages:</b>
     <br>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" / >
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" / >
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" / >
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" / >
     <br><br><b>Frameworks:</b>
     <br>
@@ -92,12 +95,13 @@
     <br>
     <img src="https://img.shields.io/badge/Github_Pages-100000?style=for-the-badge&logo=github&logoColor=white" / >
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" / >
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" / >
     <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" / >
-    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=whit" / >
+    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" / >
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" / >
     <img src="https://img.shields.io/badge/VPS-11557C?style=for-the-badge" / >
     <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" / >
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" / >
+    <img src="https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white" / >
     <br><br><b>IDE/Editor:</b>
     <br>
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
