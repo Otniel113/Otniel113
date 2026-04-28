@@ -49,14 +49,18 @@
     <br>
     <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"  />
     <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" / >
     <img src="https://img.shields.io/badge/Seaborn-7DB0BC?style=for-the-badge" / >
     <img src="https://img.shields.io/badge/Bokeh-2F2F2F?style=for-the-badge" / >
+    <img src="https://img.shields.io/badge/Plotly-7A76FF?style=for-the-badge&amp;logo=plotly&amp;logoColor=white" / >
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" / >
+    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" / >
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"  />
     <img src="https://img.shields.io/badge/NetworkX-FF7F0E?style=for-the-badge" / >
-    <img src="https://img.shields.io/badge/Tweepy-000000?style=for-the-badge&logo=twitter&logoColor=white" / >
+    <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=SciPy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Statsmodels-3F51B5?style=for-the-badge" / >
+    <img src="https://img.shields.io/badge/Linearmodels-1F77B4?style=for-the-badge" / >
+    <img src="https://img.shields.io/badge/Flask-3BABC3?style=for-the-badge&amp;logo=flask&amp;logoColor=white" / >
     <img src="https://img.shields.io/badge/TKinter-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <b><h2>Software Development</h2></b>
     <b>Languages:</b>
@@ -73,11 +77,12 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" / >
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" / >
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" / >
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" / >
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" / >
     <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" / >
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" / >
     <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" / >
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" / >
+    <img src="https://img.shields.io/badge/Net/Http_+_Chi-00ADD8?style=for-the-badge&logo=go&logoColor=white" / >
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" / >
     <b><h2>Another</h2><b>
     <b>Languages:</b>
     <br>
@@ -96,16 +101,23 @@
     <img src="https://img.shields.io/badge/Github_Pages-100000?style=for-the-badge&logo=github&logoColor=white" / >
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" / >
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" / >
-    <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" / >
     <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" / >
+    <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" / >
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" / >
-    <img src="https://img.shields.io/badge/VPS-11557C?style=for-the-badge" / >
     <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" / >
     <img src="https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white" / >
+    <img src="https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" / >
+    <img src="https://img.shields.io/badge/Pythonanywhere-1D9FD7?style=for-the-badge&amp;logo=pythonanywhere&amp;logoColor=white" / >
+    <img src="https://img.shields.io/badge/VPS-11557C?style=for-the-badge" / >
     <br><br><b>IDE/Editor:</b>
     <br>
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=ZedIndustries&logoColor=white" />
+    <br><br><b>AI Code Assistant:</b>
+    <br>
+    <img src="https://img.shields.io/badge/Github_Copilot-000000?style=for-the-badge&logo=GithubCopilot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=GoogleGemini&logoColor=white" />
     
 </div>
 
