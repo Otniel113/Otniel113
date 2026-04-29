@@ -56,6 +56,9 @@
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" / >
     <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" / >
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"  />
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"  />
+    <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white" / >
+     <img src="https://img.shields.io/badge/TextBlob-000000?style=for-the-badge" / >
     <img src="https://img.shields.io/badge/NetworkX-FF7F0E?style=for-the-badge" / >
     <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=SciPy&logoColor=white" />
     <img src="https://img.shields.io/badge/Statsmodels-3F51B5?style=for-the-badge" / >
