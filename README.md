@@ -52,13 +52,15 @@
     <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" / >
     <img src="https://img.shields.io/badge/Seaborn-7DB0BC?style=for-the-badge" / >
     <img src="https://img.shields.io/badge/Bokeh-2F2F2F?style=for-the-badge" / >
+    <img src="https://img.shields.io/badge/Panel-0072B5?style=for-the-badge" / >
     <img src="https://img.shields.io/badge/Plotly-7A76FF?style=for-the-badge&amp;logo=plotly&amp;logoColor=white" / >
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" / >
     <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" / >
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"  />
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"  />
     <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white" / >
-     <img src="https://img.shields.io/badge/TextBlob-000000?style=for-the-badge" / >
+    <img src="https://img.shields.io/badge/TextBlob-000000?style=for-the-badge" / >
+    <img src="https://img.shields.io/badge/Google_Genai-4285F4?style=for-the-badge&logo=google-cloud&logoColor=F4B400" / >
     <img src="https://img.shields.io/badge/NetworkX-FF7F0E?style=for-the-badge" / >
     <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=SciPy&logoColor=white" />
     <img src="https://img.shields.io/badge/Statsmodels-3F51B5?style=for-the-badge" / >
@@ -109,14 +111,16 @@
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" / >
     <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" / >
     <img src="https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white" / >
-    <img src="https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" / >
-    <img src="https://img.shields.io/badge/Pythonanywhere-1D9FD7?style=for-the-badge&amp;logo=pythonanywhere&amp;logoColor=white" / >
+    <img src="https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" / >
+    <img src="https://img.shields.io/badge/Pythonanywhere-1D9FD7?style=for-the-badge&logo=pythonanywhere&logoColor=white" / >
+    <img src="https://img.shields.io/badge/Hugging_Face_Spaces-24292E?style=for-the-badge&logo=huggingface&logoColor=FFD21E" / >
     <img src="https://img.shields.io/badge/VPS-11557C?style=for-the-badge" / >
     <br><br><b>IDE/Editor:</b>
     <br>
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img src="https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=ZedIndustries&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google_Antigravity-8E75B2?style=for-the-badge&logo=GoogleGemini&logoColor=white" / >
     <br><br><b>AI Code Assistant:</b>
     <br>
     <img src="https://img.shields.io/badge/Github_Copilot-000000?style=for-the-badge&logo=GithubCopilot&logoColor=white" />
